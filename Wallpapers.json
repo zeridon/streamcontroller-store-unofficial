@@ -5,5 +5,11 @@
             "1.0.0": "6973cba3f94f70694463f5e8da4fd492c1059716",
             "1.5.0-beta": "8cfd64c6e36cac2eb520955f5e1de4900f329314"
         }
+    },
+    {
+        "url": "https://github.com/zeridon/streamcontroller-wallpaper-pack-template",
+        "commits": {
+            "1.5.0-beta": "73d8516d6a2517bef1fe7ecba4247f4625cf1add"
+        }
     }
 ]
